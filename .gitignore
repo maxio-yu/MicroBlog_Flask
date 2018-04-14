@@ -1,0 +1,9 @@
+/start.sh
+/app.db
+/migrations/
+/venv/
+__pycache__/
+*.pyc
+
+
+
